@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "cn.blockisle.app",
-  "versionName": "0.1.2",
-  "versionCode": 3,
-  "size": 13034421,
-  "sha256": "e280c458e16ca952cdc389721865d946d281506b32d02a968a68e11e97d487c4",
-  "url": "https://github.com/junnhwan/blockisle/releases/download/v0.1.2/BlockIsle-0.1.2-android.apk",
-  "notes": "下载成品保存到公共Download/BlockIsle；旧文件可迁移；下载记录可删除，并可选择同时删除文件。",
-  "sourceCommit": "b42cfd9069b66b3ad91e6f13657ca6aaa15539ab"
+  "versionName": "0.2.0",
+  "versionCode": 4,
+  "size": 13149109,
+  "sha256": "b47e9e124d60e0fb042237e78e1c2d6efa0e9e7d6ef5cdf00c85d92906a6fe0b",
+  "url": "https://github.com/junnhwan/blockisle/releases/download/v0.2.0/BlockIsle-0.2.0-android.apk",
+  "notes": "统一资源库、分类笔记与使用记录；ZIP备份恢复；兼容与依赖说明、版本配套文件和使用指引；下载恢复与游戏APK核对。",
+  "sourceCommit": "47e8ae713f82712e6280b085354b457a0f242f25"
 }
