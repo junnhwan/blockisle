@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "cn.blockisle.app",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "size": 12952381,
+  "sha256": "7984554c8d3a3489232389aacbbbaeb481b674f2b8cf92c7fd45c2af57cee4aa",
+  "url": "https://github.com/junnhwan/blockisle/releases/download/v0.1.0/BlockIsle-0.1.0-android.apk",
+  "notes": "方屿首版：资源发现与下载、皮肤预览、GitHub 自制目录、本地资源、游戏 APK 主渠道 MCPEDL.org。",
+  "sourceCommit": "27f2bd559b62ece94f3b3d669eda85d4019752cc"
+}

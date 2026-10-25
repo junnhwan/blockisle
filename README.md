@@ -2,7 +2,7 @@
 
 把喜欢的方块世界，装进口袋。Minecraft 基岩版国际版的 Android 个人资源中心。
 
-[下载 APK](https://github.com/junnhwan/blockisle/releases/latest) · [自制资源目录](https://github.com/junnhwan/blockisle-content)
+[下载 APK](https://github.com/junnhwan/blockisle/releases/download/v0.1.0/BlockIsle-0.1.0-android.apk) · [加速下载](https://gh-proxy.org/https://github.com/junnhwan/blockisle/releases/download/v0.1.0/BlockIsle-0.1.0-android.apk) · [发布说明](https://github.com/junnhwan/blockisle/releases/latest) · [自制资源目录](https://github.com/junnhwan/blockisle-content)
 
 ## 首版功能
 
@@ -21,6 +21,10 @@
 | --- | --- |
 | ![发现](screenshots/discover.png) | ![自制](screenshots/creations.png) |
 
+| 单体皮肤 | 旋转预览 |
+| --- | --- |
+| ![皮肤](screenshots/skins.png) | ![预览](screenshots/skin-preview.png) |
+
 ## 安装与更新
 
 下载 Release 的 BlockIsle APK，允许系统安装后打开。Android 8.0 及以上；本次在 Android 11/15 模拟器完成相应验证。后续沿用相同签名覆盖更新，应用内提供手动检查更新和 GitHub 官方入口。
@@ -28,3 +32,7 @@
 资源的来源声明、文件检查与游戏内实测分别记录。App 下载验证不等于模组玩法或光影效果已经在你的手机验收；请按作者条件导入并在游戏中启用。
 
 源码由独立私有仓库维护。本仓库仅分发 APK、版本资料与截图。
+
+## v0.1.0 文件验证
+
+APK 12952381 字节，SHA-256：`7984554c8d3a3489232389aacbbbaeb481b674f2b8cf92c7fd45c2af57cee4aa`。公开官方路径与一条加速路径均已完整下载核对。
