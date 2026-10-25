@@ -1,7 +1,9 @@
 # 方屿发布状态
 
-2026-10-25：v0.1.1/code2已公开发布：https://github.com/junnhwan/blockisle/releases/tag/v0.1.1 。正式包名cn.blockisle.app，沿用原签名，0.1.0覆盖升级保留示例收藏1→1。
+2026-10-25：v0.1.2/code3已公开发布：https://github.com/junnhwan/blockisle/releases/tag/v0.1.2 。正式包cn.blockisle.app，原签名；0.1.1覆盖升级保留示例收藏1→1。
 
-官方与gh-proxy.org的公开完整APK均为13,001,533字节，SHA-256 1ecd944da919154115ec373b97081f5562e58c4b14e90b00af56d61bf8c2232a，latest资产清单已核对后同步main。34项单元测试通过，最新完整联网/交互批次9/10通过；Action & Stuff大文件曾独立完整下载，批量仍出现超时，保留浏览器直下入口，不声称已全部真机验收。
+下载成品放公共Download/BlockIsle，旧内部文件可迁移，下载记录可选择仅移除或同时删文件。39项单元测试和6项针对下载管理/真实下载的Android15检查通过，Lint0 errors。Android8/9权限分支和真机另验，旧第三方源网络波动不在本轮全部重验范围。
 
-本轮四个入口、三源资源、版本筛选与游戏分页。源码实现f4d6659cc21b7ad57e04cd01266254314a530cb1，详细交接与验收在私有junnhwan/blockisle-src/docs。自制目录junnhwan/blockisle-content未变。原签名材料不在仓库内。
+官方与gh-proxy.org公开完整APK均13,034,421字节，SHA-256 e280c458e16ca952cdc389721865d946d281506b32d02a968a68e11e97d487c4；latest资产清单核对后才同步main。本次完整传输约142.43/179.51秒，不代表手机网络持续速度。
+
+源码发布实现b42cfd9069b66b3ad91e6f13657ca6aaa15539ab；本机采用隔离快照构建，未把同目录并发资源库/备份开发混入。详情在私有junnhwan/blockisle-src/docs/validation-0.1.2.md。自制目录未变，签名不入库。
