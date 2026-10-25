@@ -18,9 +18,9 @@ Minecraft 基岩版国际版的 Android 个人资源中心。
 
 以下为0.1.1正式APK在Android15专用模拟器中的实际界面。
 
-| 统一资源页 | 来源与版本筛选 |
+| 跨来源搜索 | 来源与版本筛选 |
 | --- | --- |
-| ![资源](screenshots/resources.png) | ![筛选](screenshots/resource-filters.png) |
+| ![跨来源搜索](screenshots/action-stuff-search.png) | ![筛选](screenshots/resource-filters.png) |
 
 | 游戏分页 | 小版本分支 |
 | --- | --- |
