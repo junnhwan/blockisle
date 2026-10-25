@@ -1,0 +1,4 @@
+artifacts/
+*.apk
+*.jks
+*.keystore
